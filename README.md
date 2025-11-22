@@ -8,6 +8,7 @@ My solutions to the course exercise questions.
 
 ### Chapter 2: More Python and into to NumPy
 2.1 Python Part 2
+
 2.2 NumPy Part 1
 - Basic array manipulations
 
@@ -29,11 +30,14 @@ My solutions to the course exercise questions.
 
 ### Chapter 5: Even more Pandas (call the WWF they're everywhere) and Machine Learning
 5.1 Pandas Part 3
+
 5.2 Machine Learning: Linear Regression
 
 ### Chapter 6: Machine Learning Types
 6.1 Naive Bayes Classification 
+
 6.2 Clustering
+
 6.3 Principal Component Analysis
 
 ### Chapter 7: Project Work
