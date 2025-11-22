@@ -1,4 +1,5 @@
 # Data Analysis with Python 2024–25 — University of Helsinki MOOC
+My solutions to the course exercise questions. 
 
 ## Contents
 
