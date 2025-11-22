@@ -22,6 +22,7 @@ My solutions to the course exercise questions.
 - Basic data visualisation
   
 3.3 Image Processing
+- Importing images as arrays and manipulating them with array operations
 
 3.4 Pandas Part 1
 
