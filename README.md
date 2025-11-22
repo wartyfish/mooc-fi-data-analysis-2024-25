@@ -16,9 +16,12 @@ My solutions to the course exercise questions.
 - Comparing, masking, sorting arrays
 - Fancy indexing
 - Matrix manipulation and solving systems of linear equations
+  
 3.2 Matplotlib
 - Basic data visualisation
+  
 3.3 Image Processing
+
 3.4 Pandas Part 1
 
 ### Chapter 4: More Pandas
