@@ -25,6 +25,7 @@ My solutions to the course exercise questions.
 - Importing images as arrays and manipulating them with array operations
 
 3.4 Pandas Part 1
+- Intro to DataFrames
 
 ### Chapter 4: More Pandas
 4.1 Pandas Part 2
